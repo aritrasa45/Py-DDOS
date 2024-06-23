@@ -441,8 +441,8 @@ def main():
     t9.join()
     t10.join()
     t11.join()
-    t.12.join()
-    t.13.joim()
+    t12.join()
+    t13.join()
     
     
 
