@@ -1,4 +1,4 @@
 # Py-DDOS
 
 > [!IMPORTANT]
-> not responsible for anything..
+> only for small server based websites [ weak website]
